@@ -69,7 +69,7 @@ After consultation with the Infrastructure Security, Operational Security and Sp
 - SSLProtocol = `TLSv1.2`
 - SSLVerifyClient = `require`
 
-Please see the [Tomcat Config HTTP SSL Support](https://tomcat.apache.org/tomcat-8.0-doc/config/http.html#SSL_Support) web page for more details.
+Please see the [Tomcat Config HTTP SSL Support](https://tomcat.apache.org/tomcat-8.0-doc/config/http.html#SSL_Support) web page for more details..
 
 ## Client certificates (TLS/mutual authentication (MA)) ##
 
